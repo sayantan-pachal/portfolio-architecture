@@ -108,3 +108,16 @@ src/
 - Reusable scroll animation helper
 - Smooth UI transitions
 
+# 🚧 Error Handling
+- Dedicated Edgecase component
+- Handles:
+  - Invalid routes
+  - Unexpected navigation errors
+
+# ⚠️ Important Note
+**The code of this repository is made with ChatGPT.**
+> It is a replica of the original project — not the same code, but structured and written in a similar way.
+
+# 👤 Author
+**Sayantan Pachal**
+*Aspiring CSE Student • Full-Stack Developer • AI Learner*
