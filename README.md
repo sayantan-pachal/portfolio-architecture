@@ -1,12 +1,19 @@
-# Portfolio Architecture
+# Personal Portfolio Website
 
-This repository contains the source code for my personal portfolio website, built using **React**, **Tailwind CSS**, and a modular, scalable component architecture.
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-38bdf8?logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-fast-646CFF?logo=vite)
+![EmailJS](https://img.shields.io/badge/EmailJS-integrated-orange)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-The project is designed to be clean, reusable, and easy to maintain, with a clear separation between **UI components**, **data**, and **logic**.
+This repository contains the source code for my **personal portfolio website**, built using **React**, **Tailwind CSS**, and a clean, component-driven architecture.
+
+The project focuses on **clarity, scalability, and maintainability**, keeping UI, data, and logic well separated.
 
 ---
 
-## 📁 Folder Structure Overview
+## 📁 Project Architecture
 
 ```txt
 src/
@@ -43,22 +50,61 @@ src/
 │       └── Edgecase.jsx
 │
 ├── Data/
-│   ├── HomeIntro/
-│   │   └── homeintro.js
-│   ├── Project/
-│   │   └── projects.js
+│   ├── About/
+│   │   └── about.js
+│   ├── Blog/
+│   │   └── blogPosts.js
 │   ├── Contact/
 │   │   └── social_contacts.js
 │   ├── Education/
 │   │   └── educations.js
-│   ├── Blog/
-│   │   └── blogPosts.js
-│   └── About/
-│       └── about.js
+│   ├── HomeIntro/
+│   │   └── homeintro.js
+│   └── Project/
+│       └── projects.js
 │
 ├── styles/
 │   └── animations.css
 │
 ├── scrollAnimation.js
 │
-└── App.jsx
+├── App.jsx
+└── main.jsx
+```
+
+# 🧠 Design Philosophy
+- Component-first approach for clean UI separation
+- Data-driven rendering using mapped data files
+- Reusable layout patterns across pages
+- Responsive-first design with Tailwind CSS
+- Minimal logic inside UI components
+
+# 📌 Key Features
+- Fully responsive layout
+- Dark / light mode support
+- Scroll-based animations
+- Project showcase with live & source links
+- Resume PDF viewer + download
+- Contact form with auto-reply
+- Toast notifications for user feedback
+- Graceful 404 / error handling
+
+# ✉️ Contact System
+- Built using EmailJS
+- Supports:
+- Direct email sending**
+- Auto-reply confirmation
+- Loading states
+- Success / error notifications
+
+# 📄 Resume Section
+- Implemented using react-pdf
+- Responsive rendering for all devices
+- Downloadable PDF resume
+
+# 🎨 Styling & Animation
+- Tailwind CSS for utility-first styling
+- Custom keyframe animations
+- Reusable scroll animation helper
+- Smooth UI transitions
+
