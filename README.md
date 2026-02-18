@@ -183,7 +183,7 @@ PORTFOLIO-ARCHITECTURE
 
 <hr>
 
-👤 Author
+**👤 Author**
 <br>
 **Sayantan Pachal**
 <br>
