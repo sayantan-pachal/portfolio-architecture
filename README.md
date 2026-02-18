@@ -171,7 +171,9 @@ PORTFOLIO-ARCHITECTURE
 **The code of this repository is made with ChatGPT.**
 > It is a replica of the original project — not the same code, but structured and written in a similar way.
 
-👤 Author
+<br>
+
+👤 Author <br>
 **Sayantan Pachal**
 <br>
 *Aspiring CSE Student • Full-Stack Developer • AI Learner*
