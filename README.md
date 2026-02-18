@@ -161,19 +161,18 @@ PORTFOLIO-ARCHITECTURE
 - Reusable scroll animation helper
 - Smooth UI transitions
 
-<h1>🚧 Error Handling</h1>
+# 🚧 Error Handling
 - Dedicated Edgecase component
 - Handles:
   - Invalid routes
   - Unexpected navigation errors
 
-<h1>⚠️ Important Note</h1>
+# ⚠️ Important Note
 **The code of this repository is made with ChatGPT.**
 > It is a replica of the original project — not the same code, but structured and written in a similar way.
 
-<br>
 
-👤 Author <br>
+👤 Author - 
 **Sayantan Pachal**
 <br>
 *Aspiring CSE Student • Full-Stack Developer • AI Learner*
