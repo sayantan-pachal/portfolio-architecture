@@ -9,7 +9,8 @@
 ![PDFjs](https://img.shields.io/badge/PDFjs-integrated-yellow?logo=adobeacrobatreader)
 ![React PDF](https://img.shields.io/badge/react--pdf-viewer-yellowgreen)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+![Status]()
 </p>
 
 This repository contains the source code for my **personal portfolio website**, built using **React**, **Tailwind CSS**, and a clean, component-driven architecture.
