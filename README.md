@@ -11,6 +11,12 @@
 
 This repository contains the source code for my **personal portfolio website**, built using **React**, **Tailwind CSS**, and a clean, component-driven architecture.
 
+<p align="center">
+  <a href="https://sayantanpachal.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=vercel&logoColor=white" alt="Portfolio Website" width="170" />
+  </a>
+</p>
+
 The project focuses on **clarity, scalability, and maintainability**, keeping UI, data, and logic well separated.
 
 ---
@@ -155,17 +161,17 @@ PORTFOLIO-ARCHITECTURE
 - Reusable scroll animation helper
 - Smooth UI transitions
 
-# 🚧 Error Handling
+<h1>🚧 Error Handling</h1>
 - Dedicated Edgecase component
 - Handles:
   - Invalid routes
   - Unexpected navigation errors
 
-# ⚠️ Important Note
+<h1>⚠️ Important Note</h1>
 **The code of this repository is made with ChatGPT.**
 > It is a replica of the original project — not the same code, but structured and written in a similar way.
 
-# 👤 Author
+<h1>👤 Author</h1>
 **Sayantan Pachal**
 <br>
 *Aspiring CSE Student • Full-Stack Developer • AI Learner*
