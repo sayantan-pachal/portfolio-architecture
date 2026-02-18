@@ -183,11 +183,10 @@ PORTFOLIO-ARCHITECTURE
 
 
 <p align="center">
-👤 Author
 
-**Sayantan Pachal**
-<br>
+ 👤 Author
+ **Sayantan Pachal**
+ <br>
 
-**Aspiring CSE Student • Full-Stack Developer • AI Learner**
-
+ **Aspiring CSE Student • Full-Stack Developer • AI Learner**
 </p>
