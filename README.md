@@ -150,7 +150,7 @@ PORTFOLIO-ARCHITECTURE
 
 - Built using EmailJS
 - Supports:
-- Direct email sending\*\*
+- Direct email sending
 - Auto-reply confirmation
 - Loading states
 - Success / error notifications
