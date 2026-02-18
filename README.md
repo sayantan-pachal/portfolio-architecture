@@ -23,7 +23,7 @@ The project focuses on **clarity, scalability, and maintainability**, keeping UI
 
 ---
 
-<h1 align="center">📁 Project Architecture</h1>
+<h2 align="center">📁 Project Architecture</h2>
 
 ```txt
 PORTFOLIO-ARCHITECTURE
@@ -127,7 +127,7 @@ PORTFOLIO-ARCHITECTURE
 └── README.md
 ```
 
-# 🧠 Design Philosophy
+<h2 align="center">🧠 Design Philosophy</h2>
 
 - Component-first approach for clean UI separation
 - Data-driven rendering using mapped data files
@@ -135,7 +135,7 @@ PORTFOLIO-ARCHITECTURE
 - Responsive-first design with Tailwind CSS
 - Minimal logic inside UI components
 
-# 📌 Key Features
+<h2 align="center"> 📌 Key Features </h2>
 
 - Fully responsive layout
 - Dark / light mode support
@@ -146,7 +146,7 @@ PORTFOLIO-ARCHITECTURE
 - Toast notifications for user feedback
 - Graceful 404 / error handling
 
-# ✉️ Contact System
+<h2 align="center"> ✉️ Contact System </h2>
 
 - Built using EmailJS
 - Supports:
