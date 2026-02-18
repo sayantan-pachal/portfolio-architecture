@@ -1,5 +1,7 @@
 # Personal Portfolio Website
 
+
+<p align="center">
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-38bdf8?logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-fast-646CFF?logo=vite)
@@ -8,6 +10,7 @@
 ![React PDF](https://img.shields.io/badge/react--pdf-viewer-yellowgreen)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+</p>
 
 This repository contains the source code for my **personal portfolio website**, built using **React**, **Tailwind CSS**, and a clean, component-driven architecture.
 
@@ -172,7 +175,8 @@ PORTFOLIO-ARCHITECTURE
 > It is a replica of the original project — not the same code, but structured and written in a similar way.
 
 
-👤 Author - 
+👤 Author
+<br>
 **Sayantan Pachal**
 <br>
 *Aspiring CSE Student • Full-Stack Developer • AI Learner*
