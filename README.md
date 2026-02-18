@@ -1,14 +1,14 @@
 <h1 align="center"> Personal Portfolio Website </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-18-blue?logo=react" />
-<img src="https://img.shields.io/badge/TailwindCSS-3.x-38bdf8?logo=tailwindcss" />
-<img src="https://img.shields.io/badge/Vite-fast-646CFF?logo=vite" />
-<img src="https://img.shields.io/badge/EmailJS-integrated-orange" />
-<img src="https://img.shields.io/badge/PDFjs-integrated-yellow?logo=adobeacrobatreader" />
-<img src="https://img.shields.io/badge/react--pdf-viewer-yellowgreen" />
-<img src="https://img.shields.io/badge/Responsive-Yes-success" />
-<img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.x-38bdf8?logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Vite-fast-646CFF?logo=vite" />
+  <img src="https://img.shields.io/badge/EmailJS-integrated-orange" />
+  <img src="https://img.shields.io/badge/PDFjs-integrated-yellow?logo=adobeacrobatreader" />
+  <img src="https://img.shields.io/badge/react--pdf-viewer-yellowgreen" />
+  <img src="https://img.shields.io/badge/Responsive-Yes-success" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
 </p>
 
 This repository contains the source code for my **personal portfolio website**, built using **React**, **Tailwind CSS**, and a clean, component-driven architecture.
@@ -183,7 +183,7 @@ PORTFOLIO-ARCHITECTURE
 
 <hr>
 
-**👤 Author**
+👤 Author
 <br>
 **Sayantan Pachal**
 <br>
