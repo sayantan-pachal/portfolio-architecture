@@ -187,4 +187,4 @@ PORTFOLIO-ARCHITECTURE
 <br>
 **Sayantan Pachal**
 <br>
-_Aspiring CSE Student • Full-Stack Developer • AI Learner_
+*Aspiring CSE Student • Full-Stack Developer • AI Learner*
