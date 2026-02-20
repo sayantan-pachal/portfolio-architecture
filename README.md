@@ -22,7 +22,6 @@ This repository contains the source code for my **personal portfolio website**, 
 
 The project focuses on **clarity, scalability, and maintainability**, keeping UI, data, and logic well separated.
 
----
 
 <h2> 📁 Project Architecture </h2>
 
